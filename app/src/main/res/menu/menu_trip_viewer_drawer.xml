@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_budget"
+        android:icon="@drawable/budgetcalc"
+        android:title="Smart Budget Calculator" />
+    <item
+        android:id="@+id/menu_gallery"
+        android:icon="@drawable/gallery"
+        android:title="Gallery" />
+    <item
+        android:id="@+id/menue_weather"
+        android:icon="@drawable/weather"
+        android:title="Weather" />
+</menu>

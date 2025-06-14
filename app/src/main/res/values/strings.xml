@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TripMate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="total_budget_rs_0_00">Total Budget: Rs 0.00</string>
+    <string name="total_spent_rs_0_00">Total Spent: Rs 0.00</string>
+    <string name="remaining_rs_0_00">Remaining: Rs 0.00</string>
+    <string name="add_expense">Add Expense</string>
+</resources>

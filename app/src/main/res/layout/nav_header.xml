@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:orientation="vertical"
+    android:background="?attr/colorPrimary"
+    android:gravity="bottom"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/nav_imgProfile"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/persone"
+        android:scaleType="centerCrop"
+
+        android:contentDescription="User profile image" />
+
+    <TextView
+        android:id="@+id/nav_tvUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User Full Name"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>

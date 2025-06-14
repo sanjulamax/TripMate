@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060143948109",
+    "project_id": "tripmate-10151",
+    "storage_bucket": "tripmate-10151.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060143948109:android:d7349404bfb5be97605704",
+        "android_client_info": {
+          "package_name": "com.example.tripmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsN_RCBt6huJxEppwNh3_Ss0K6PMDK24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
